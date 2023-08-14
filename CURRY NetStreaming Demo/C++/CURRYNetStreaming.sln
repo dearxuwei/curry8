@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CURRYNetStreaming", "CURRYNetStreaming\CURRYNetStreaming.vcxproj", "{AA5E5849-D2FF-406B-8343-4C158CC93460}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{117591B7-ACEB-4952-8365-AE1D63CE8266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA5E5849-D2FF-406B-8343-4C158CC93460}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AA5E5849-D2FF-406B-8343-4C158CC93460}.Debug|Win32.Build.0 = Debug|Win32
+		{AA5E5849-D2FF-406B-8343-4C158CC93460}.Release|Win32.ActiveCfg = Release|Win32
+		{AA5E5849-D2FF-406B-8343-4C158CC93460}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
